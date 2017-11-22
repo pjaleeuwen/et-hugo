@@ -1,0 +1,51 @@
+baseURL = "https://localhost:1313/hugo-initio-site/"
+languageCode = "en-us"
+title = "Patrick van Leeuwen"
+theme = "hugo-initio"
+
+[params]
+    name = "Patrick van Leeuwen"
+    description = "Back-end developer"
+    email = "pja.leeuwen@gmail.com"
+    phone = "+31 641279394"
+    address = "Dr. Ahaushof 81, 5042EL, Tilburg"
+    year = 2017
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "Oktober 31, 2017"
+
+    showSubheader = true
+    showServices = false
+    showRecentWorks = true
+    showDownload = false
+    showClients = true
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "blog"
+    url = "/post/"
+    weight = 4
+[[params.social]]
+    title = "linkedin"
+    url = "https://www.linkedin.com/in/patrick-van-leeuwen-882b0687/"
+    icon = "fa-linkedin-square"
+    footer = false
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+    title = "github"
+    url = "https://github.com/pjaleeuwen"
+    icon = "fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+    title = "email"
+    url = "mailto:some.email@somewhere.com"
+    icon = "fa-envelope"
+    footer = false
+    sharethis = true
+    network = "email"
