@@ -3,7 +3,7 @@
         "id": 0,
         "name": "Kamp Admin - Go development",
         "image": "images/rw1.jpg",
-        "url": "#",
+        "url": "portfolio/kamp-admin-go-development/",
         "items": [
             {
                 "name": "Website",
@@ -15,7 +15,7 @@
         "id": 1,
         "name": "Momentumtools - Go development",
         "image": "images/rw2.jpg",
-        "url": "#",
+        "url": "portfolio/momentumtools-go-development/",
         "items": [
             {
                 "name": "Website",
@@ -27,7 +27,7 @@
         "id": 2,
         "name": "Envimate - research and development",
         "image": "images/rw3.jpg",
-        "url": "#",
+        "url": "portfolio/envimate-research-and-development/",
         "items": [
             {
                 "name": "Website",

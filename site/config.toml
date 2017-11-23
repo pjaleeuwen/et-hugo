@@ -24,10 +24,7 @@ theme = "hugo-initio"
     name = "home"
     url = "/"
     weight = 1
-[[menu.main]]
-    name = "blog"
-    url = "/post/"
-    weight = 4
+
 [[params.social]]
     title = "linkedin"
     url = "https://www.linkedin.com/in/patrick-van-leeuwen-882b0687/"
